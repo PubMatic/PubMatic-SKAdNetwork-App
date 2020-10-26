@@ -1,0 +1,33 @@
+PODS:
+  - OpenWrapSDK (1.6.2):
+    - OpenWrapSDK/OpenWrap (= 1.6.2)
+  - OpenWrapSDK/Common (1.6.2)
+  - OpenWrapSDK/Measurement (1.6.2):
+    - OpenWrapSDK/Common
+  - OpenWrapSDK/Monitor (1.6.2):
+    - OpenWrapSDK/Common
+    - OpenWrapSDK/Video
+    - OpenWrapSDK/Webrendering
+  - OpenWrapSDK/OpenWrap (1.6.2):
+    - OpenWrapSDK/Measurement
+    - OpenWrapSDK/Monitor
+    - OpenWrapSDK/Video
+    - OpenWrapSDK/Webrendering
+  - OpenWrapSDK/Video (1.6.2):
+    - OpenWrapSDK/Common
+  - OpenWrapSDK/Webrendering (1.6.2):
+    - OpenWrapSDK/Common
+
+DEPENDENCIES:
+  - OpenWrapSDK (= 1.6.2)
+
+SPEC REPOS:
+  trunk:
+    - OpenWrapSDK
+
+SPEC CHECKSUMS:
+  OpenWrapSDK: 60b2a8c5274ae265faea6fd0080bb002c8d50a60
+
+PODFILE CHECKSUM: 1869c703f560c2a2b2d2b793e3c2c72ea3ba38df
+
+COCOAPODS: 1.9.0
