@@ -18,7 +18,7 @@ This application integrated with iOS OpenWrapSDK 1.6.2, which handles Publisher/
 ### Running the app
 
 - Add valid ad network id in the app in plist - change <ADNET_ID> in plist file
-- Run the demo ad server, refer  [Ad server](https://git.pubmatic.com/PubMatic/PubMatic-SKAdNetwork-App#ad-server)
+- Run the demo ad server, refer  [Ad server](https://github.com/PubMatic/PubMatic-SKAdNetwork-App#ad-server)
 - Pod install & run the app
 
 
